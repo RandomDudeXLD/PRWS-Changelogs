@@ -68,11 +68,20 @@ Versions prior to 3.0 are undocumented.
 - And other things I likely forgot to document here.
 
 
-**Version 3.6: Released on ?? ??, 2026**
+**Version 3.6: Released on March ??, 2026**
 - Added some needed OwnerOnly commands.
 - Fixed Join and Exit events not working properly.
-- Added the feedback command.
 - Improved error handling.
+- Updated the Reminders and ViewReminders command to be better.
+- Added the D20 (Dice) command.
+- Updated the Help and Status command for updated information.
+- Updated the Translate command to use a different API for better results.
+- Updated the Define command to use a different API for more accurate results and use a better embed.
+- Added the Bunny command.
+- Updated the colors for the EntriesHandler.
+- Revamped the UserInfo command to fetch all possible user attributes.
+- Added the TextAlter command.
+- Updated the SetJoin and SetExit commands to work properly.
 
 **Version 3.7: Released on ?? ??, 2026**
 
