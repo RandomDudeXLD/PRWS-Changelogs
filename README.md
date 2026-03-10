@@ -82,6 +82,7 @@ Versions prior to 3.0 are undocumented.
 - Revamped the UserInfo command to fetch all possible user attributes.
 - Added the TextAlter command.
 - Updated the SetJoin and SetExit commands to work properly.
+- Updated the global error handler.
 
 **Version 3.7: Released on ?? ??, 2026**
 
