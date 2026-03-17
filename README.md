@@ -84,7 +84,7 @@ Versions prior to 3.0 are undocumented.
 - Updated the SetJoin and SetExit commands to work properly.
 - Updated the global error handler.
 - Removed unneeded commands.
-- Added the Font command (font-change).
+- Added the Font command (Slash command exclusive).
 - Updated the ToS and Privacy Policy.
 
 **Version 3.7: Released on ?? ??, 2026**
