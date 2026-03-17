@@ -83,6 +83,9 @@ Versions prior to 3.0 are undocumented.
 - Added the TextAlter command.
 - Updated the SetJoin and SetExit commands to work properly.
 - Updated the global error handler.
+- Removed unneeded commands.
+- Added the Font command (AKA TextChange).
+- Updated the ToS and Privacy Policy.
 
 **Version 3.7: Released on ?? ??, 2026**
 
