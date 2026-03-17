@@ -79,8 +79,7 @@ Versions prior to 3.0 are undocumented.
 - Updated the Define command to use a different API for more accurate results and use a better embed.
 - Added the Bunny command.
 - Updated the colors for the EntriesHandler.
-- Revamped the UserInfo command to fetch all possible user attributes.
-- Added the TextAlter command.
+- Revamped the UserInfo command to fetch most possible user attributes.
 - Updated the SetJoin and SetExit commands to work properly.
 - Updated the global error handler.
 - Removed unneeded commands.
