@@ -64,11 +64,11 @@ Versions prior to 3.0 are undocumented.
 - Renamed commands and updated their descriptions to be more descriptive.
 - Improved the code's internal structure as always (but this time like, better).
 - Updated command checks for user contexts.
-- Added kill synonyms to some kill results from the kill command.
+- Added kill synonyms (like murder) to some kill results from the kill command.
 - And other things I likely forgot to document here.
 
 
-**Version 3.6: Released on March ??, 2026**
+**Version 3.6: Released on March 17th, 2026**
 - Added some needed OwnerOnly commands.
 - Fixed Join and Exit events not working properly.
 - Improved error handling.
@@ -84,7 +84,7 @@ Versions prior to 3.0 are undocumented.
 - Updated the SetJoin and SetExit commands to work properly.
 - Updated the global error handler.
 - Removed unneeded commands.
-- Added the Font command (AKA TextChange).
+- Added the Font command (font-change).
 - Updated the ToS and Privacy Policy.
 
 **Version 3.7: Released on ?? ??, 2026**
