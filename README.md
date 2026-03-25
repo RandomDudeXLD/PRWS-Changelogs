@@ -86,6 +86,11 @@ Versions prior to 3.0 are undocumented.
 - Added the Font command (Slash command exclusive).
 - Updated the ToS and Privacy Policy.
 
+**Version 3.6.5: Released on March ??th, 2026**
+- Re-designed the bot.
+- Updated the Help Command to include oversights of Version 3.6.
+- Updated the Entries Handler.
+
 **Version 3.7: Released on ?? ??, 2026**
 
 
