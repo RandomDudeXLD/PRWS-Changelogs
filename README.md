@@ -90,6 +90,7 @@ Versions prior to 3.0 are undocumented.
 - Re-designed the bot.
 - Updated the Help Command to include oversights of Version 3.6.
 - Updated the Entries Handler.
+- Updated the ToS and Privacy Policy.
 
 **Version 3.7: Released on ?? ??, 2026**
 
