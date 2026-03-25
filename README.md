@@ -1,4 +1,4 @@
-# Omicron-Changelogs
+# Aeternus-Changelogs
 Changelogs for each Omicron version, starting from Major Release V3.0
 
 # Version 3.0: Released on October 20th, 2025
