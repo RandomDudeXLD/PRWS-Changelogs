@@ -95,13 +95,14 @@ Versions prior to 3.0 are undocumented.
 - Updated permission checks for all commands that required checks, to use guild checks instead of channel checks.
 - The TicTacToe command was revamped to function better and had some bugs fixed.
 
-**Version 3.7: Released on ?? ??, 2026**
-- Added a Local and a Global Blacklist System, also known as "Aeternus Clearance 0".
+**Version 3.7: Released on April 12th, 2026**
+- Added a Global Blacklist System.
+- Tweaked slightly some commands.
 
 **Version 3.8: Released on ?? ??, 2026**
+- Will add a Marriage System (probably)
+- Will fix User Installation Context compatibility issues.
 
+**Version 3.9: Released on ?? ??, 202?**
 
-**Version 3.9: Released on ?? ??, 2026**
-
-
-# Version 4.0: Released on ?? ??, 2026
+# Version 4.0: Released on ?? ??, 202?
