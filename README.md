@@ -99,10 +99,11 @@ Versions prior to 3.0 are undocumented.
 - Added a Global Blacklist System.
 - Tweaked slightly some commands.
 
-**Version 3.8: Released on ?? ??, 2026**
-- Will add a Marriage System (probably)
-- Will fix User Installation Context compatibility issues.
+**Version 3.8: Released on May 1st, 2026**
+- Added a verification system.
+- Fixed Status commands, Slash version, from giving a wrong RAM percentage value.
 
-**Version 3.9: Released on ?? ??, 202?**
+**Version 3.9: Released on ?? ??, 2026**
+- Will more than likely fix User Installation Context availability.
 
 # Version 4.0: Released on ?? ??, 202?
