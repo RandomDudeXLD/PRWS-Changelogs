@@ -108,6 +108,7 @@ Versions prior to 3.0 are undocumented.
 - Updated the help command, exactly the config section.
 - Updated the internal file structure as always.
 
-**Version 3.9: Released on ?? ??, 202?**
+**Version 3.9: Released on May 22nd, 2026**
+- Added a command for converting temperature unit values (no Kelvin support, though).
 
 # Version 4.0: Released on ?? ??, 202?
