@@ -111,4 +111,8 @@ Versions prior to 3.0 are undocumented.
 **Version 3.9: Released on May 22nd, 2026**
 - Added a command for converting temperature unit values (no Kelvin support, though).
 
+**Version 3.9.5: Released on June 11th, 2026**
+- Updated verification handler methods.
+- Fixed entry handler. Don't ask about what was fixed.
+
 # Version 4.0: Released on ?? ??, 202?
