@@ -114,5 +114,6 @@ Versions prior to 3.0 are undocumented.
 **Version 3.9.5: Released on June 11th, 2026**
 - Updated verification handler methods.
 - Fixed entry handler. Don't ask about what was fixed.
+- Added a handler for Server functions.
 
 # Version 4.0: Released on ?? ??, 202?
