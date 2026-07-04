@@ -120,3 +120,6 @@ Versions prior to 3.0 are undocumented.
 - Updated the bot's appearance.
 - Updated the ToS and Privacy Policy.
 - Added the Potassium Economy.
+- Updated internal names.
+- Updated PRWS' replies and flavor text.
+- Added the PRWS_Perms command.
