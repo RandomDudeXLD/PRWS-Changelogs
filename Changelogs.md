@@ -122,4 +122,5 @@ Versions prior to 3.0 are undocumented.
 - Added the Potassium Economy.
 - Updated internal names.
 - Updated PRWS' replies and flavor text.
-- Added the PRWS_Perms command.
+- Added the PRWSPerms command.
+- Updated the PRWS Clearances List.
