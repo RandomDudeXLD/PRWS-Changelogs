@@ -116,11 +116,13 @@ Versions prior to 3.0 are undocumented.
 - Fixed entry handler. Don't ask about what was fixed.
 - Added a handler for Server functions.
 
-# Version 4.0: Released on July ?, 2026
+# Version 4.0: Released on July 6th, 2026
 - Updated the bot's appearance.
 - Updated the ToS and Privacy Policy.
 - Added the Potassium Economy.
 - Updated internal names.
-- Updated PRWS' replies and flavor text.
 - Added the PRWSPerms command.
-- Updated the PRWS Clearances List.
+
+# Versions 4.1 to 4.9
+
+**Version 4.1: Released on July ??, 2026**
